@@ -1,4 +1,4 @@
-# whatsapp_clone
+# Flutter Whatsapp_clone functionality
  
 Firebase Firestore
 
